@@ -72,8 +72,7 @@ namespace 客户端
             }
             catch (Exception ex)
             {
-
-                throw;
+                throw ex;
             }
             IP.Text = ConfigurationManager.AppSettings["localhost"].ToString();
         }

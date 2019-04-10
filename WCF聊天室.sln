@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "服务端", "服务端\服务端.csproj", "{C730A067-0E0B-48B4-B2B7-80EC921C71A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "客户端", "..\客户端\客户端\客户端.csproj", "{C61AD5C9-FB9A-445A-8BBF-6D47AC24ED07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "客户端", "cline\客户端.csproj", "{C61AD5C9-FB9A-445A-8BBF-6D47AC24ED07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
